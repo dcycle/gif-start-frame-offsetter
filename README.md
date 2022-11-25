@@ -1,3 +1,5 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/dcycle/gif-start-frame-offsetter/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/dcycle/gif-start-frame-offsetter/tree/master)
+
 ```
   ________.__  _____          _____  _____              __    __
  /  _____/|__|/ ____\   _____/ ____\/ ____\______ _____/  |__/  |_  ___________
