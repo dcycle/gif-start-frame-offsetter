@@ -17,7 +17,7 @@ Introducing "GIF staring frame offsetter".
 
 Here's how it works.
 
-First make sure you have Docker installed, then go to the directory with your gif (for example monster.gif), and run:
+First make sure you have Docker installed, then put gif (for example monster.gif) in the same directory as this script, and run:
 
     ./offset-gif-start.sh monster.gif
 
